@@ -1,8 +1,9 @@
 # QWIC : Software Engineering Interview Guide :computer:
 QWIC Community is super excited to share this Software Engineering Interview Guide, made with lots of love! <br> We know how difficult it can be to navigate the internship field --there's defintiely some tips we wish we knew earlier on. Therefore, we've compiled all and any wisdom gained from our own internship experiences and that of which has been passed down to us from fellow techies. We hope you find these tips insightful and help you in your journey of landing an internship!
 
+As you're about to find out, our favourite interview prep tip is mock interviews, so obviously we put together this [mock interview matching program](https://forms.gle/62tEe2bQvDY2YGx8A) to help you practice!
 
-Happy Coding!
+Happy Coding,
 <br>
 The Community Team :heavy_heart_exclamation: 
 
