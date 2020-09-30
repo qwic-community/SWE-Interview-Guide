@@ -10,5 +10,5 @@ The Community Team :heavy_heart_exclamation:
 If you have any interview tips, suggestions, or experiences that you want to share with the QWIC Community, we'll post them here on github!
 <br>
 1. DM us your tips on instagram @qwic_community!
-2. Or submit them via our ["Questions/Feedback"!] (https://docs.google.com/forms/d/e/1FAIpQLSf7JKqIRR2E4Wx7elmRAQBG5-pX7H0n3RQbHdUyAOeJ0gZ4KQ/viewform?usp=pp_url) google form!
+2. Or submit them via our [Questions/Feedback](https://docs.google.com/forms/d/e/1FAIpQLSf7JKqIRR2E4Wx7elmRAQBG5-pX7H0n3RQbHdUyAOeJ0gZ4KQ/viewform?usp=pp_url) google form!
 
